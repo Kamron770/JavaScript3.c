@@ -5,7 +5,7 @@ if(num1 > num2 && num1 < num3){
     alert(num1 + ' Наибольшее число');
 }
 else if(num2 > num1 && num2 < num3){
-    alert(num2 + ' Наибольшее число');
+    alert(num2 + ' Среднее число');
 }
 else if(num3 > num1 && num3 < num2){
     alert(num3 + ' Наибольшее число');
